@@ -1,4 +1,4 @@
-# Google Apps Scripts as WebHook
+# Google Apps Script as WebHook
 
 ## Making the presentations
 I'm sure that some of you haven't missed the "Google App Script".
@@ -34,7 +34,7 @@ The idea is quite simple and the documentation is clear on both sides [3][4] and
 fortunately Bitbucket API is usable with Basic auth (thanks god). But debugging
 a Google Apps Script is not so easy and I took me a while to guess why this
 "#$!&§" script was not working [5] . But at the end it is quite simple.
-![](Google_apps_scripts_as_webhook.png)
+![](assets/Google_apps_script_as_webhook.png)
 
 The script is available as Gist:
 [gervaisb/CodeShip-Bitbucket-Build_status.js](https://gist.github.com/gervaisb/206a3441b2ed454e81d5)
