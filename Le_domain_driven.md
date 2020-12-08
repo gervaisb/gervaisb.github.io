@@ -15,7 +15,7 @@ Loin de vouloir représenter toutes les contraintes métiers, l'exemple se base 
     + Consultation des articles
     + Consultation du solde
 
-Ces trois fonctionnalités sont validées par quelques tests.
+Ces trois fonctionnalités sont validées par quelques tests. Les sources sont disponibles sur https://github.com/gervaisb/jubilant-journey avec une branche pour chaque itération.
 
 ## Itération 1; du code procédural
 
